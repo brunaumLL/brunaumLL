@@ -7,8 +7,8 @@ Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente
 
 <div align="center">
   <a href="https://github.com/brunaumLL">
-  <img height="180em" width="42%" src="https://github-readme-stats-brunaumll.vercel.app/api?username=brunaumLL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats-brunaumll.vercel.app/api/top-langs/?username=brunaumLL&layout=compact&langs_count=7&theme=dark"/>
+  <img width="42%" src="https://github-readme-stats-brunaumll.vercel.app/api?username=brunaumLL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats-brunaumll.vercel.app/api/top-langs/?username=brunaumLL&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ##
@@ -21,11 +21,11 @@ Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente
   <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   
   ###
   
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
