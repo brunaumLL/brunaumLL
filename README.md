@@ -1,7 +1,7 @@
 ## Olá! Sou o Bruno Louzada
 Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente em diversas tecnologias, sempre disposto a aprender algo novo que possa agregar em meus conhecimentos.
 
-### Atualmento estudando: <img align="center" src="https://img.shields.io/badge/C%23-239120?style=plastiic&logo=c-sharp&logoColor=white"> <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
+### Atualmento estudando: <img align="center" src="https://img.shields.io/badge/C%23-239120?style=plastiic&logo=c-sharp&logoColor=white">
 
 ##
 
