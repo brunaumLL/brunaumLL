@@ -7,8 +7,8 @@ Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente
 
 <div align="center">
   <a href="https://github.com/brunaumLL">
-  <img height="180em" width="42%" src="https://github-readme-stats-brunaumll.vercel.app/api?username=brunaumLL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats-brunaumll.vercel.app/api/top-langs/?username=brunaumLL&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunaumLL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunaumLL&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ##
