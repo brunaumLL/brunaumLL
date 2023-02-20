@@ -33,7 +33,7 @@ Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastiic&logo=mongodb&logoColor=white">
   
   ##
-  
-  <div> 
-  <a href="https://www.linkedin.com/in/brunolorenzonlouzada/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastiic&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+
+  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:bruno99louzada@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunolorenzonlouzada/)
+
