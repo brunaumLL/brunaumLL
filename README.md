@@ -1,5 +1,5 @@
 ## Olá! Sou o Bruno Louzada
-Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente em diversas tecnologias, sempre disposto a aprender algo novo que possa agregar em meus conhecimentos.
+Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente em diversas tecnologias, com projetos educativos desenvolvidos em Front-end, Back-end e Full Stack. Sempre disposto a aprender algo novo que possa agregar em meus conhecimentos.
 
 ### Atualmento estudando: <img align="center" src="https://img.shields.io/badge/C%23-239120?style=plastiic&logo=c-sharp&logoColor=white">
 
