@@ -31,6 +31,7 @@ Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente
   <img align="center" src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastiic&logo=Sequelize&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=plastiic&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastiic&logo=mongodb&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/-Pytest-fff?style=plastiic&logo=pytest">
   
   ##
 
