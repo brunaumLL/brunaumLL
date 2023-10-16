@@ -1,7 +1,6 @@
 ## Olá! Sou o Bruno Louzada
 Sou um Desenvolvedor Web e Técnico em Informática, com conhecimento abrangente em diversas tecnologias, com projetos educativos desenvolvidos em Front-end, Back-end e Full Stack. Sempre disposto a aprender algo novo que possa agregar em meus conhecimentos.
 
-### Atualmento estudando: <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=plastiic&logo=openjdk&logoColor=white"> 
 
 ##
 
